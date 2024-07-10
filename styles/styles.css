@@ -554,7 +554,7 @@ color: white;
     align-items:center;
     padding: 64px 48px 64px 48px;
     margin-top:30px;
-    background-image: url("../handshake.jpg");
+    background:rgba(0, 0, 0, 1.1)url("../handshake.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -566,7 +566,7 @@ color: white;
 
 
 .banner-contentd{
-    display: flex;
+    display:flex;
     flex-direction: column;
     justify-content:center;
     align-items: center;
@@ -594,5 +594,10 @@ border-radius: 16px;
 background: white;
 padding:48px;
 background-image: url();
-
+}
+.nirob{
+    display: inline;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
 }
