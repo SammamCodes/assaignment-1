@@ -624,3 +624,34 @@ letter-spacing: 0%;
 text-align: center;
 background-color: white;
 }
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+padding: 10px 20px ;
+background-color: white;
+
+}
+.left-sides{
+    flex: 1;
+}
+.right-sides{
+    display: flex;
+}
+.right-sides img{
+margin-left: 10px;
+width: 30px;
+height: 30px;
+
+}
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+   position: fixed;
+   bottom: 0;
+   padding: 10px 20px ;
+}
