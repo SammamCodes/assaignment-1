@@ -32,7 +32,7 @@ body{
     flex-direction: column;
     justify-content:center;
     align-items: center;
-    height: 1000px;px ;
+    height: 1000px ;
 }
 .banner-content p {
     color: rgb(13, 19, 33);
@@ -53,7 +53,7 @@ line-height: 68px;
     border: 5px dashed #CDCDCD;
 }
 .imaged2{
-    width: 17%;
+    width: 20%;
     height: auto;
     top: 65.42%;
 bottom: -65.42%;
@@ -82,4 +82,288 @@ letter-spacing: 0%;
 text-align: center;
 text-decoration: none;
  }   
-        
+        /* second parts design style starts here */
+.why-web-container{
+   width: 1140px;
+height: 1395px;
+
+margin: 0 auto;
+margin-top: 90px;
+border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+padding:48px;
+background-image: url();
+}
+.secons-section-content h1{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 50px;
+}
+.secons-section-content{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+/* second parts design style ends here */
+/* third parts design style starts here */
+ .third-part-container{
+    width: 850px;
+    height: 240px;
+  
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    background-color: white;
+    
+    
+         }
+.left-side-content{
+    width:70% ;
+    height:240px ;
+   
+    display: flex;
+
+}
+.right-side-content{
+    width: 274.17px;
+    height: 240px;
+    position: relative;
+    left: 0.36%;
+    top: 1.74%;
+   
+
+}
+
+
+.left-side-content{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+}
+.left-side-content h3{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.left-side-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.design{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 18px 10px 18px;
+
+margin-right: auto;
+}
+.design a {
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.third-part-container{
+    width: 850px;
+    height: 240px;
+  
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    background-color: white;
+    
+    
+         }
+.left-side-content{
+    width:70% ;
+    height:240px ;
+   
+    display: flex;
+
+}
+.right-side-content{
+    width: 274.17px;
+    height: 240px;
+    position: relative;
+    left: 0.36%;
+    top: 1.74%;
+   
+
+}
+
+
+.left-side-content{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+}
+.left-side-content h3{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.left-side-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.design{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 18px 10px 18px;
+
+margin-right: auto;
+}
+.design a {
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
+.third-part-container{
+    width: 850px;
+    height: 240px;
+  
+    margin: 0 auto;
+    margin-top: 32px;
+    display: flex;
+    background-color: white;
+    
+    
+         }
+.left-side-content{
+    width:70% ;
+    height:240px ;
+   
+    display: flex;
+
+}
+.right-side-content{
+    width: 274.17px;
+    height: 240px;
+    position: relative;
+    left: 0.36%;
+    top: 1.74%;
+   
+
+}
+
+
+.left-side-content{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+}
+.left-side-content h3{
+    color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+.left-side-content p{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+.design{
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 18px 10px 18px;
+
+margin-right: auto;
+}
+.design a {
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 20px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: left;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+}
